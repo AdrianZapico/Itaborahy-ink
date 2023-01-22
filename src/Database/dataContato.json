@@ -1,0 +1,20 @@
+[
+    {
+      "description":"Facebook",
+      "link":"https://www.facebook.com/profile.php?id=100011225529227",
+      "color":"#3b5998"
+     
+    },
+    {
+      "description":"WhatsApp",
+      "link":"https://api.whatsapp.com/send?phone=5531997489284",
+      "color":"#25D366"
+    },
+    {
+      "description":"Instagram",
+      "link":"https://www.instagram.com/adrian_zapico/",
+      "color":"#E1306C"
+      
+    }
+   
+  ]
