@@ -17,7 +17,7 @@ export default function Footer(props) {
 
           <div>
             <h5>Sobre mim</h5>
-            <p>Sou Giovanni Itaboary, Tatuador ect e tal
+            <p>Sou Giovanni Itaborahy, Tatuador ect e tal...
             </p>
           </div>
 

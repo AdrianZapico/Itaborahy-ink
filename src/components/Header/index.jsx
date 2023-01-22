@@ -17,7 +17,7 @@ export default function Header() {
       <Content>
         <ContentTitle>
           <Title>
-            Itaboary_INK 💀
+        Itaborahy_Ink💀
           </Title>
           <SubTitle>
             Portfolio Pessoal
